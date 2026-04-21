@@ -1,4 +1,4 @@
-So, this is my little vim "handbook", entirely written in vim.
+So, this is my little vim handbook, entirely written in vim.
 	1. Movement in vim:
 	What which key does.
 	  1. "Esc" - Entering command mode. Self explanatory (I hope so).
@@ -11,4 +11,4 @@ So, this is my little vim "handbook", entirely written in vim.
 	  3. :wq - Writes and quits file.
 	  4. y - Copy.
 	  5. p - Paste.
-	  6. d - Cut.
+	  6. d - Cut. 
