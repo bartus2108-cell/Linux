@@ -1,0 +1,14 @@
+So, this is my little vim "handbook", entirely written in vim.
+	1. Movement in vim:
+	What which key does.
+	  1. "Esc" - Entering command mode. Self explanatory (I hope so).
+	  2. "i" - Entering insert mode. In this mode you are able to write in file.
+	  3. "v" - Entering visual mode. In this mode you can select text (for copying, cutting, etc.).
+	1. Basic operations on file:
+	All you need to acually do something in vim:
+	  1. :w - Writes file.
+	  2. :q - Quits file.
+	  3. :wq - Writes and quits file.
+	  4. y - Copy.
+	  5. p - Paste.
+	  6. d - Cut.
